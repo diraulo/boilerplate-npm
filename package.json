@@ -2,10 +2,15 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Raoul Diffouo",
   "description": "A project that does something awesome",
-  "keywords": [ "FCC", "Nodejs", "Javascript", "freecodecamp" ],
+  "keywords": [ 
+    "FCC",
+    "Nodejs",
+    "Javascript",
+    "freecodecamp" 
+  ],
   "dependencies": {
     "express": "^4.16.3",
-    "moment": "2.14.0",
+    "moment": "2.14.0"
   },
   "main": "server.js",
   "scripts": {
